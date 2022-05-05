@@ -1,7 +1,6 @@
 # Overview
-
-In this project i created a dashboard without any functionality(just html and css)
+A simple dashboard without any functionality(just html and css)
 
 ## Screenshot
 
-<img src="Screenshot/Untitled.png"/>
+<img src="Screenshot/dashboard-img.png"/>
