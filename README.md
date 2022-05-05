@@ -4,3 +4,4 @@ In this project i created a dashboard without any functionality(just html and cs
 
 ## Screenshot
 
+<img src="Screenshot/Untitled.png"/>
